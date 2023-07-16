@@ -21,5 +21,5 @@
 *   The winner of the election based on popular vote
 
 #### Attached folders and files :
-* 
-* One REDME file
+* two folders including a python file and a folder including output file, respectively
+* one REDME file
